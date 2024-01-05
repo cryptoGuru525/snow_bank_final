@@ -29,4 +29,3 @@ hh run scripts/<name of deploy script>
   sushiWethLp: '0x3418780d3CA86C299FFeB8d4fF5E9509f0dD127e',
   usdcWethPairAddress: '0x9Abb53F7549d3fa8FBF87EED068c3E2b95Ec8329'
 }
-# snow_bank_final
